@@ -1,0 +1,6 @@
+{
+  "name": "Heads-Up GTO Poker Trainer",
+  "description": "A high-fidelity Heads-Up Texas Hold'em training sandbox with real-time simulated card deal and AI GTO strategy analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
